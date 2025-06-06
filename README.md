@@ -21,4 +21,4 @@ Use the /login endpoint with your credentials to receive a JWT token.
 7. Use the JWT Token for Authorization.
 In Swagger, use the built-in Authorize button.
 Enter the token in the below format:
-Bearer <your-token>
+Bearer valid-token
